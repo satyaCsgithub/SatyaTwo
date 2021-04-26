@@ -21,5 +21,7 @@ namespace WebApplication1.Models
         public List<PostDetail> usersinfo { get; set; }
         [Display(Name = "Gender")]
         public string Gender { get; set; }
+
+        public string Location { get; set; }
     }
 }
