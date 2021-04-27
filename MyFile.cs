@@ -9,7 +9,6 @@ namespace WebApplication1.Models
 {
     public class PostDetail
     {
-        public int PostId { get; set; }
         public Nullable<int> PostWeight { get; set; }
         [Display(Name = "Post Name")]
         public string PostName { get; set; }
