@@ -27,5 +27,7 @@ namespace WebApplication1.Models
 
        //modified in main branch1
        public string StateName { get; set; }
+        
+        public string CompName { get; set; }
     }
 }
