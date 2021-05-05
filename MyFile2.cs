@@ -12,6 +12,7 @@ namespace WebApplication1.Models
         [Display(Name = "Gender")]
         public string Gender { get; set; }
         public string Location { get; set; }
-       
+        
+        public string NativeID { get; set; }
     }
 }
