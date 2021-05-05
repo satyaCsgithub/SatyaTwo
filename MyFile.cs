@@ -24,5 +24,10 @@ namespace WebApplication1.Models
         public string Location { get; set; }
 
         public string CountryName { get; set; }
+
+       //modified in main branch1
+       public string StateName { get; set; }
+        
+        public string CompName { get; set; }
     }
 }
