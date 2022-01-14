@@ -16,5 +16,8 @@ namespace WebApplication1.Models
         public string NativeID { get; set; }
 
         public string SatyaDB { get; set; }
+
+        //New line added
+        public string LaptopName { get; set; }
     }
 }
