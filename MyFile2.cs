@@ -17,7 +17,7 @@ namespace WebApplication1.Models
 
         public string SatyaDB { get; set; }
 
-        //New line added
+        //New line added1
         public string LaptopName { get; set; }
     }
 }
