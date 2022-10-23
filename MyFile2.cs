@@ -21,5 +21,7 @@ namespace WebApplication1.Models
         public string LaptopName { get; set; }
 
         public string DesktopName { get; set; }
+
+        public string PCName { get; set; }
     }
 }
