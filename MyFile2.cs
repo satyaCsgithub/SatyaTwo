@@ -19,5 +19,7 @@ namespace WebApplication1.Models
 
         //New line added1
         public string LaptopName { get; set; }
+
+        public string DesktopName { get; set; }
     }
 }
